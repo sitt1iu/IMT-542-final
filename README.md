@@ -33,12 +33,14 @@ Make sure you have the following ready:
 
 ### Step 1: Clone the folders
 ```https://github.com/sitt1iu/IMT-542-final/surf-map.git```
+
 ```https://github.com/sitt1iu/IMT-542-final/surf-api.git```
 
 ### Step 2: Setup the backend
 In the terminal:
 
 ```cd surf-api```
+
 ```npm install```
 
 The ```credentials/``` folder is not pushed to GitHub for security. Therefore, to access the Google Earth Engine, you should have a Google Earth Engine account JSON key. Place the ```privatekey.json``` inside the ```credentials/``` folder, and the ```credentials/``` folder should fall under the ```surf-api``` folder. 
@@ -51,7 +53,9 @@ Start the API server:
 In the terminal:
 
 ```cd ../surf-map```
+
 ```npm install```
+
 ```nom start```
 
 
