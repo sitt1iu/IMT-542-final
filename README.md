@@ -21,5 +21,37 @@ There are countless surf spots around the world, and this platform only features
 ## Set-up instructions
 ### Project structure
 Frontend: ```surf-map``` - the frontend React app that displays the surf spots map.
+
 Backend: ```surf-api``` - the backend Express server that fetches real-time sea surface temperature (SST) from Google Earth Engine.
+
+### Prerequisites
+Make sure you have the following ready:
+1. Node.js
+2. npm
+3. Git
+4. A Google Earth Engine account
+
+### Step 1: Clone the folders
+```https://github.com/sitt1iu/IMT-542-final/surf-map.git```
+```https://github.com/sitt1iu/IMT-542-final/surf-api.git```
+
+### Step 2: Setup the backend
+In the terminal:
+
+```cd surf-api```
+```npm install```
+
+The ```credentials/``` folder is not pushed to GitHub for security. Therefore, to access the Google Earth Engine, you should have a Google Earth Engine account JSON key. Place the ```privatekey.json``` inside the ```credentials/``` folder, and the ```credentials/``` folder should fall under the ```surf-api``` folder. 
+
+Start the API server:
+
+```node index.js```
+
+### Step 3: Setup the frontend
+In the terminal:
+
+```cd ../surf-map```
+```npm install```
+```nom start```
+
 
