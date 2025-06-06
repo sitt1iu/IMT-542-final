@@ -19,3 +19,7 @@ While the platform works well for now, manual data collection is time-consuming 
 There are countless surf spots around the world, and this platform only features a limited selection. While we strive to ensure that the listed spots are accurate and comprehensive, we cannot guarantee coverage or reliability for unlisted locations.
 
 ## Set-up instructions
+### Project structure
+Frontend: ```surf-map``` - the frontend React app that displays the surf spots map.
+Backend: ```surf-api``` - the backend Express server that fetches real-time sea surface temperature (SST) from Google Earth Engine.
+
