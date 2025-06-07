@@ -9,16 +9,16 @@ Attributes	Purpose
 |Attributes|Purpose|
 |----------------|----------------|
 | Name   | For geographical clarity and ease of access|
-| Location  |            |
-| Country  |         |
-| Coordinates	  |   |
+| Location  |                                            |
+| Country  |                                          |
+| Coordinates	  |                                         |
 | Summary/details  | To match the user’s skill and seasonal plans |
-| Wave type  |  |
-| Skill level  |     |
-| Best surf season  |   |
-| Real-time water temperature  |    |
+| Wave type  |                                             |
+| Skill level  |                                              |
+| Best surf season  |                                              |
+| Real-time water temperature  |                                        |
 | Nearby amenities  | To support surfing planning   |
-| Transportation  |   |
+| Transportation  |                                |
 | Housing  | Allows users to find and book accommodations nearby   |
 | Image  | For visual context   |
 | User contributions  | Users can contribute to enrich or correct our data and share feedback on our platform   |
