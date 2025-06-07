@@ -2,17 +2,17 @@
 
 ## FAIRness assessment
 
-* Findability: Data is structured in a JSON file with unified attributes. Each surf spot acts as a unique node.
+- Findability: Data is structured in a JSON file with unified attributes. Each surf spot acts as a unique node.
 
-** Remediation: add metadata standards to make the structure more standardized and scalable.
+  -Remediation: add metadata standards to make the structure more standardized and scalable.
 
-* Accessible: Information is accessed via the surf map API.
+- Accessible: Information is accessed via the surf map API.
 
-** Remediation: now the platform can only run on local host. Should be deported to online host. The current access to endpoint is not as user-friendly as others.
+  - Remediation: now the platform can only run on local host. Should be deported to online host. The current access to endpoint is not as user-friendly as others.
 
-* Interoperable: Uses standard formats (JSON), integrates third-party APIs, and combines structured + scraped data. 
+- Interoperable: Uses standard formats (JSON), integrates third-party APIs, and combines structured + scraped data. 
 
-** Remediation: Comments/blogs in HTML requires heavy human labor for cleaning/structuring.
+  - Remediation: Comments/blogs in HTML requires heavy human labor for cleaning/structuring.
 
 
 ## Data quality
