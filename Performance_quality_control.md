@@ -4,7 +4,7 @@
 
 - Findability: Data is structured in a JSON file with unified attributes. Each surf spot acts as a unique node.
 
-  -Remediation: add metadata standards to make the structure more standardized and scalable.
+  - Remediation: add metadata standards to make the structure more standardized and scalable.
 
 - Accessible: Information is accessed via the surf map API.
 
