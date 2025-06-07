@@ -2,11 +2,11 @@
 
 ## New information structure
 * Information: We integrated sea surface temperature, surf conditions, housing options into a single node representing each surf spot. All information was cleaned, organized, and verified for consistency.
-* 
+  
 * Structure: The new structure is a list of nodes (surf spots) with unified attributes combined on one map.
-* 
+  
 * Format: The platform uses a combination of JSON (for data storage and transfer) and API-based delivery.
-* 
+  
 * Access Method: Previously, users had to manually search through scattered sources (websites, blogs, etc.). Now, all relevant surf data is accessible through a single endpoint via the surf map API.
 
 ## Mapping the improvements to the requirements
